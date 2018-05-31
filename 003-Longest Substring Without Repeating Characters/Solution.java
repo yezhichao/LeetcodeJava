@@ -1,5 +1,6 @@
 package com.yzc;
 
+// Arrays.fill(dict,-1);可以初始化-1的数组，里面用循环实现
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int len;
