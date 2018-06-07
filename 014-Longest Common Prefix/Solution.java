@@ -1,6 +1,7 @@
 package com.yzc;
 
 // see detail
+// also https://blog.csdn.net/MebiuW/article/details/50909486
 class Solution {
     public static String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) {
